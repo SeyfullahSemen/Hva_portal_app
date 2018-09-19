@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hva_portal_app</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="url">URL</string>
+    <string name="name">Name</string>
+    <string name="add">add portal</string>
+</resources>
